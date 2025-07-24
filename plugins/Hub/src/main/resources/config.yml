@@ -1,0 +1,4 @@
+db:
+  url: jdbc:postgresql://db:5432/minecraft
+  user: user
+  password: password
